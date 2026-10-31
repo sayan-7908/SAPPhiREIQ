@@ -1,1 +1,1 @@
-# SAPPhiREIQ
+This repository contains the projects completed during my **Data Analytics Internship at Unified Mentor**. It showcases my practical skills in data cleaning, data analysis, data visualization, and dashboard creation using tools like Microsoft Excel. Each project demonstrates my learning and hands-on experience in solving real-world business problems through data.
